@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid green;
   padding: 10px;
 }
 
@@ -21,6 +21,6 @@ h3 {
 }
 
 body  {
-  padding: 10px;
-  background-color: white;
+  padding: 80px;
+  background-color: yellow;
 }
